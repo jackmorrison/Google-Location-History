@@ -12,7 +12,7 @@ From the image, it is visible that most of the location history points are place
 
 As the majority of the location points are in Ireland I focused the next steps on only displaying only the country of Ireland, the resulting map is displayed below.
 <p align="center">
-  <img src="https://github.com/jackmorrison/Google-Location-History/blob/master/Images/Ireland%20Map.png">
+  <img src="https://github.com/jackmorrison/Google-Location-History/blob/master/Images/IrelandMap.png">
 </p>
 
 
