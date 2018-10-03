@@ -11,9 +11,9 @@ The project began by extracting my location history from Google Maps, this data 
 From the image, it is visible that most of the location history points are placed in Ireland. It is also visible that there are a number of points marked in places which I have not visited (for example in Turkey and what appears to be the Ivory Coast) for which I am attributing to incorrect GPS assignments or VPN connections. 
 
 As the majority of the location points are in Ireland I focused the next steps on only displaying only the country of Ireland, the resulting map is displayed below.
-
-            ![alt text](https://github.com/jackmorrison/Google-Location-History/blob/master/Images/Ireland%20Map.png "Ireland Map")
-
+<p align="center">
+![alt text](https://github.com/jackmorrison/Google-Location-History/blob/master/Images/Ireland%20Map.png "Ireland Map")
+</p>
 
 
 
