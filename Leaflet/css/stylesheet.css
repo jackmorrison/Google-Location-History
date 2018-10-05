@@ -1,6 +1,7 @@
-#mapid {height: 1200px;
-		width: 1900px;
-		}
+#mapid {
+	height: 100%;
+	width: 100%;
+}
 
 p{
 	font-weight: bold;
