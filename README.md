@@ -17,3 +17,4 @@ As the majority of the location points are in Ireland I focused the next steps o
 
 
 
+[Interactive leaflet map here.](http://htmlpreview.github.io/?https://github.com/jackmorrison/Google-Location-History/blob/master/Leaflet/Map.html)
