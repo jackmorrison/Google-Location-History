@@ -6,7 +6,7 @@ The project is based on Geoff Boeing's blog post [here](https://geoffboeing.com/
 
 The location history was extracted from Google Maps in JSON format, this data ranges from 2014 to 2018 and contains over 1 million co-ordinates (1,083,365 rows).
 
-The data was then clustered using DBSCAN, which groups data points (latitude and longitudes) together if they are within a certain distance of eachother.
+The data was then clustered using the DBSCAN algorithm, which groups data points (latitude and longitudes) together if they are within a certain distance of eachother.
 
 
 
