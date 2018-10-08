@@ -1,4 +1,4 @@
-# Google Location History Interactive World Map
+# Places I've Visited Interactive World Map
 
 This project involves creating a world map to display the places that I have visited in a more interactive way than sticking pins onto a map.
 
