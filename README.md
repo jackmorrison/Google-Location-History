@@ -1,6 +1,6 @@
 # Places I've Visited Interactive World Map
 
-This project involves creating a world map to display the places that I have visited in a different way to sticking pins onto a map.
+This project involves creating a world map to display everywhere that I have visited in a different way to sticking pins onto a map.
 
 The project is based on Geoff Boeing's blog post [here](https://geoffboeing.com/2016/06/mapping-everywhere-ever-been/) and GitHub repo [here](https://geoffboeing.com/2016/06/mapping-everywhere-ever-been/).
 
