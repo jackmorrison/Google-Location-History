@@ -31,6 +31,8 @@ I then broke down the data by year to highlight when I visted new places.
   
 </p>
 
+All countries visited are highlighted on the map below which can be clicked for more detail, interesting locations include Iceland and Paris where I only stopped on a layover.
+
 <p align=center>
 <a href="https://rawgit.com/jackmorrison/Google-Location-History/master/Leaflet/Map.html">
   <img src="https://raw.githubusercontent.com/jackmorrison/Location-History/master/Images/Full-Map-1.jpg" alt="Leaflet Map">
