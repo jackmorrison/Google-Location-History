@@ -23,6 +23,14 @@ The data was clustered using the DBSCAN algorithm, which groups data points (lat
   </a>
 </p>
 
+I then broke down the data by year to highlight when I visted new places.
+
+<p align="center">
+  
+  <img src="https://raw.githubusercontent.com/jackmorrison/Location-History/master/Images/Ireland-by-Year.gif" alt="Ireland by Year">
+  
+</p>
+
 <p align=center>
 <a href="https://rawgit.com/jackmorrison/Google-Location-History/master/Leaflet/Map.html">
   <img src="https://raw.githubusercontent.com/jackmorrison/Location-History/master/Images/Full-Map-1.jpg" alt="Leaflet Map">
