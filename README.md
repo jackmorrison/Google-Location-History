@@ -8,22 +8,17 @@ The location history was extracted from Google Maps in JSON format, this data ra
 
 The data was clustered using the DBSCAN algorithm, which groups data points (latitude and longitudes) together if they are within a certain distance of eachother. The clustered data set was then reverse geocoded using the Google Maps Geocoding API and mapped using Leaflet an opensource Javascript library. The interactive map can be viewed by clicking [here](https://rawgit.com/jackmorrison/Google-Location-History/master/Leaflet/Map.html) or on the images below.
 
-<table style="width:100%">
-  <tr>
-    <th>Thailand Summer 2017</th>
-    <th>Toronto Summer 2016</th> 
-  </tr>
-</table>
-
-
 <p align="center">
-
   <a href="https://rawgit.com/jackmorrison/Google-Location-History/master/Leaflet/Map-Thailand.html">
-    <img src="https://raw.githubusercontent.com/jackmorrison/Location-History/master/Images/Thailand-Summer-2017.jpg" alt="Thailand Map" width="425" height="510">
+    <img src="https://raw.githubusercontent.com/jackmorrison/Location-History/master/Images/Thailand-Summer-2017.jpg" alt="Thailand Map" width="300" height="360">
   </a>
+  
   <a href="https://rawgit.com/jackmorrison/Google-Location-History/master/Leaflet/Map-Toronto.html">
-    <img src="https://raw.githubusercontent.com/jackmorrison/Location-History/master/Images/Toronto-Summer-2016.jpg" alt="Toronto Map" width="425" height="510">
+    <img src="https://raw.githubusercontent.com/jackmorrison/Location-History/master/Images/Toronto-Summer-2016.jpg" alt="Toronto Map" width="300" height="360">
   </a>
+</p>
+<p align="center">
+  Thailand Summer 2017 & Toronto Summer 2016
 </p>
 
 <p align=center>
