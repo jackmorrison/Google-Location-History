@@ -35,11 +35,11 @@ Two of my most boring country visits may include **Iceland** and **Paris** where
 
 <p align="center">
     <a href="https://rawgit.com/jackmorrison/Google-Location-History/master/Leaflet/Map-Iceland.html">
-    <img src="https://raw.githubusercontent.com/jackmorrison/Location-History/master/Images/Iceland-2016.png" alt="Iceland" width="400" height="480">
+    <img src="https://raw.githubusercontent.com/jackmorrison/Location-History/master/Images/Iceland-2016-1.jpg" alt="Iceland" width="400" height="250">
   
   </a>
   <a href="https://rawgit.com/jackmorrison/Google-Location-History/master/Leaflet/Map-Paris.html">
-    <img src="https://raw.githubusercontent.com/jackmorrison/Location-History/master/Images/Paris-2017.png" alt="Paris" width="400" height="480">
+    <img src="https://raw.githubusercontent.com/jackmorrison/Location-History/master/Images/Paris-2017-1.jpg" alt="Paris" width="400" height="250">
 
   </a>
 </p>
