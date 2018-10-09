@@ -9,7 +9,7 @@ The location history was extracted from Google Maps in JSON format, this data ra
 The data was clustered using the DBSCAN algorithm, which groups data points (latitude and longitudes) together if they are within a certain distance of eachother. The clustered data set was then reverse geocoded using the Google Maps Geocoding API and mapped using Leaflet an opensource Javascript library. The interactive map can be viewed by clicking [here](https://rawgit.com/jackmorrison/Google-Location-History/master/Leaflet/Map.html) or on the images below.
 
 <p align="center">
-  <p><b>Thailand Summer 2017</b></p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<p><b>Toronto Summer 2016</b></p>
+  <p><b>Thailand Summer 2017&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Toronto Summer 2016</b></p>
   
 </p>
 
