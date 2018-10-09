@@ -16,6 +16,8 @@ I then broke down the data by year to highlight places visited across Ireland (a
   
 </p>
 
+A summer spent in Toronto and 3 weeks of travelling Thailand are detailed here.
+
 <p align="center">
   <b> Toronto Summer 2016 & Thailand Summer 2017 </b>
 </p>
