@@ -12,7 +12,7 @@ The data was clustered using the DBSCAN algorithm, which groups data points (lat
   <img src="https://raw.githubusercontent.com/jackmorrison/Location-History/master/Images/Thailand-Summer-2017.jpg" alt="Leaflet Map">
 </a>
 
-<a href="https://rawgit.com/jackmorrison/Google-Location-History/master/Leaflet/Map-Thailand.html">
+<a href="https://rawgit.com/jackmorrison/Google-Location-History/master/Leaflet/Map-Toronto.html">
   <img src="https://raw.githubusercontent.com/jackmorrison/Location-History/master/Images/Toronto-Summer-2016.jpg" alt="Leaflet Map">
 </a>
 
