@@ -34,13 +34,13 @@ I then broke down the data by year to highlight my travels across Ireland.
 Two of my most boring visits may include **Keflavik** and **Paris** where I stopped for 1 hour layovers... 
 
 <p align="center">
-    <a href="https://rawgit.com/jackmorrison/Google-Location-History/master/Leaflet/Map-Iceland.html">
+    <a href="https://rawgit.com/jackmorrison/Google-Location-History/master/Leaflet/Map.html">
     <img src="https://raw.githubusercontent.com/jackmorrison/Location-History/master/Images/Iceland-2016-2.jpg" alt="Iceland">
   
   </a>
   </p>
   <p align="center">
-  <a href="https://rawgit.com/jackmorrison/Google-Location-History/master/Leaflet/Map-Paris.html">
+  <a href="https://rawgit.com/jackmorrison/Google-Location-History/master/Leaflet/Map.html">
     <img src="https://raw.githubusercontent.com/jackmorrison/Location-History/master/Images/Paris-2017-1.jpg" alt="Paris">
 
   </a>
