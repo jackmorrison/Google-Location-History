@@ -6,7 +6,7 @@ The project is based on Geoff Boeing's blog post [here](https://geoffboeing.com/
 
 The location history was extracted from Google Maps in JSON format, this data ranges from 2014 to 2018 and contains over 1 million co-ordinates (1,083,365 rows).
 
-The data was clustered using the DBSCAN algorithm, which groups data points (latitude and longitudes) together if they are within a certain distance of eachother. The clustered data set was then reverse geocoded using the Google Maps Geocoding API and mapped using Leaflet, an open-source Javascript interactive maps library. The interactive map can be viewed by clicking [here](https://rawgit.com/jackmorrison/Google-Location-History/master/Leaflet/Map.html) or on the images below.
+The data was clustered using the DBSCAN algorithm, which groups data points (latitude and longitudes) together if they are within a certain distance of eachother. The clustered data set (3,312 rows) was then reverse geocoded using the Google Maps Geocoding API and mapped using Leaflet, an open-source Javascript interactive maps library. The interactive map can be viewed by clicking [here](https://rawgit.com/jackmorrison/Google-Location-History/master/Leaflet/Map.html) or on the images below.
 
 I then broke down the data by year to highlight places visited across Ireland (and places lived in).
 
