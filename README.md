@@ -35,14 +35,16 @@ Two of my most boring country visits may include **Iceland** and **Paris** where
 
 <p align="center">
     <a href="https://rawgit.com/jackmorrison/Google-Location-History/master/Leaflet/Map-Iceland.html">
-    <img src="https://raw.githubusercontent.com/jackmorrison/Location-History/master/Images/Iceland-2016-1.jpg" alt="Iceland" width="400" height="250">
+    <img src="https://raw.githubusercontent.com/jackmorrison/Location-History/master/Images/Iceland-2016-2.jpg" alt="Iceland">
   
   </a>
+  </p>
+  <p align="center">
   <a href="https://rawgit.com/jackmorrison/Google-Location-History/master/Leaflet/Map-Paris.html">
-    <img src="https://raw.githubusercontent.com/jackmorrison/Location-History/master/Images/Paris-2017-1.jpg" alt="Paris" width="400" height="250">
+    <img src="https://raw.githubusercontent.com/jackmorrison/Location-History/master/Images/Paris-2017-1.jpg" alt="Paris">
 
   </a>
-</p>
+  </p>
 
 All countries visited are highlighted on the map below which can be clicked for more detail.
 
