@@ -1,0 +1,51 @@
+<link rel="stylesheet" href="https://unpkg.com/leaflet@1.3.4/dist/leaflet.css"
+integrity="sha512-puBpdR0798OZvTTbP4A8Ix/l+A4dHDD0DGqYW6RQ+9jxkRFclaxxQb/SJAWZfWAkuyeQUytO7+7N4QKrDh+drA=="
+crossorigin=""/>
+
+<script src='location-dataset-full-dataset.js'></script>
+<link rel="stylesheet" type="text/css" href="css/stylesheet.css">
+
+<!-- Make sure you put this AFTER Leaflet's CSS -->
+<script src="https://unpkg.com/leaflet@1.3.4/dist/leaflet.js"
+integrity="sha512-nMMmRyTVoLYqjP9hrbed9S+FzjZHW5gY1TWCHA5ckwXZBadntCNs8kEqAWdrb9O7rxbCaA4lKTIWjDXZxflOcA=="
+crossorigin=""></script>
+
+<div id="mapid"></div>
+   
+   
+   <script>
+		var mymap = L.map('mapid');
+    
+    //add tile layer basemap to the map
+    basemapUrl = 'http://{s}.basemaps.cartocdn.com/light_all/{z}/{x}/{y}.png';
+    basemapAttribution = '&copy; <a href="http://www.openstreetmap.org/copyright">OpenStreetMap</a> contributors, &copy; <a href="http://cartodb.com/attributions">CartoDB</a>';
+    basemapProperties = {minZoom: 3, maxZoom: 16, continuousWorld: false, noWrap: true, attribution: basemapAttribution};
+    var basemap = L.tileLayer(basemapUrl, basemapProperties);
+    mymap.addLayer(basemap);
+
+    // specify what the circle markers should look like
+    var markerStyles = {
+        radius: 6,
+        fillColor: '#0033cc', fillOpacity: 0.5,
+        color: '#333333', opacity: 0.7, weight: 1
+    };
+    
+    // specify how to load the individual features 
+    var overlayOptions = { 
+        onEachFeature: function (feature, layer) {
+            layer.bindPopup(feature.properties.desc + '<br />' + feature.properties.year);
+            layer.on('click', function (e) {this.openPopup();});
+        },
+        pointToLayer: function (feature, latlng) {
+            return L.circleMarker(latlng, markerStyles);
+        }
+    };
+    
+    // create the point data layer and add to map
+    var pointsLayer = L.geoJson(dataset, overlayOptions); 
+    mymap.addLayer(pointsLayer);
+    
+    // fit the map window to the data points
+    //map.fitBounds(pointsLayer.getBounds());
+    mymap.setView(new L.LatLng(49.0083, 2.538), 13);
+</script>
