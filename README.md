@@ -33,7 +33,7 @@ A summer spent in Toronto and 3 weeks of travelling Thailand are detailed here.
   </a>
 </p>
 
-Two of my most boring visits may include **Keflavik** and **Paris** where I stopped for 1 hour layovers... 
+Two of my least interesting visits may include **Keflavik** and **Paris** where I stopped for 1 hour layovers... 
 
 <p align="center">
     <a href="https://rawgit.com/jackmorrison/Google-Location-History/master/Leaflet/Map.html">
