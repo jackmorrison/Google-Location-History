@@ -27,7 +27,7 @@ I then broke down the data by year to highlight when I visted new places.
 
 <p align="center">
   
-  <img src="https://raw.githubusercontent.com/jackmorrison/Location-History/master/Images/Ireland-by-Year.gif" alt="Ireland by Year">
+  <img src="https://raw.githubusercontent.com/jackmorrison/Location-History/master/Images/Ireland-by-Year.gif" alt="Ireland by Year" height="846" width="650">
   
 </p>
 
