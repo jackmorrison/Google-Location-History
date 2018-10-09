@@ -8,6 +8,14 @@ The location history was extracted from Google Maps in JSON format, this data ra
 
 The data was clustered using the DBSCAN algorithm, which groups data points (latitude and longitudes) together if they are within a certain distance of eachother. The clustered data set was then reverse geocoded using the Google Maps Geocoding API and mapped using Leaflet, an open-source Javascript interactive maps library. The interactive map can be viewed by clicking [here](https://rawgit.com/jackmorrison/Google-Location-History/master/Leaflet/Map.html) or on the images below.
 
+I then broke down the data by year to highlight places visited across Ireland (and places lived in).
+
+<p align="center">
+  
+  <img src="https://raw.githubusercontent.com/jackmorrison/Location-History/master/Images/Ireland-by-Year.gif" alt="Ireland by Year" height="846" width="650">
+  
+</p>
+
 <p align="center">
   <b> Toronto Summer 2016 & Thailand Summer 2017 </b>
 </p>
@@ -21,14 +29,6 @@ The data was clustered using the DBSCAN algorithm, which groups data points (lat
     <img src="https://raw.githubusercontent.com/jackmorrison/Location-History/master/Images/Thailand-Summer-2017.jpg" alt="Thailand Map" width="400" height="480">
 
   </a>
-</p>
-
-I then broke down the data by year to highlight places visited across Ireland (and places lived in).
-
-<p align="center">
-  
-  <img src="https://raw.githubusercontent.com/jackmorrison/Location-History/master/Images/Ireland-by-Year.gif" alt="Ireland by Year" height="846" width="650">
-  
 </p>
 
 Two of my most boring visits may include **Keflavik** and **Paris** where I stopped for 1 hour layovers... 
