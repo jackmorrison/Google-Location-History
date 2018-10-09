@@ -8,14 +8,16 @@ The location history was extracted from Google Maps in JSON format, this data ra
 
 The data was clustered using the DBSCAN algorithm, which groups data points (latitude and longitudes) together if they are within a certain distance of eachother. The clustered data set was then reverse geocoded using the Google Maps Geocoding API and mapped using Leaflet an opensource Javascript library. The interactive map can be viewed by clicking [here](https://rawgit.com/jackmorrison/Google-Location-History/master/Leaflet/Map.html) or on the images below.
 
-**Thailand Summer 2017** **Toronto Summer 2016**
+<p align="center">
+  <p><b>Thailand Summer 2017</b></p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<p><b>Toronto Summer 2016</b></p>
+  
+</p>
 
 <p align="center">
-<p><b>Thailand Summer 2017</b></p>
+
   <a href="https://rawgit.com/jackmorrison/Google-Location-History/master/Leaflet/Map-Thailand.html">
     <img src="https://raw.githubusercontent.com/jackmorrison/Location-History/master/Images/Thailand-Summer-2017.jpg" alt="Thailand Map" width="425" height="510">
   </a>
- <p><b>Toronto Summer 2016</b></p>
   <a href="https://rawgit.com/jackmorrison/Google-Location-History/master/Leaflet/Map-Toronto.html">
     <img src="https://raw.githubusercontent.com/jackmorrison/Location-History/master/Images/Toronto-Summer-2016.jpg" alt="Toronto Map" width="425" height="510">
   </a>
