@@ -23,7 +23,7 @@ The data was clustered using the DBSCAN algorithm, which groups data points (lat
   </a>
 </p>
 
-I then broke down the data by year to highlight my travels across Ireland.
+I then broke down the data by year to highlight places visited across Ireland.
 
 <p align="center">
   
