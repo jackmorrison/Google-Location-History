@@ -12,7 +12,7 @@ I then broke down the data by year to highlight places visited across Ireland (a
 
 <p align="center">
   
-  <img src="https://raw.githubusercontent.com/jackmorrison/Location-History/master/Images/Ireland-by-Year.gif" alt="Ireland by Year" height="846" width="650">
+  <img src="https://raw.githubusercontent.com/jackmorrison/Location-History/master/Images/Ireland-by-Year-1.gif" alt="Ireland by Year" height="846" width="650">
   
 </p>
 
