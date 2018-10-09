@@ -31,7 +31,7 @@ I then broke down the data by year to highlight my travels across Ireland.
   
 </p>
 
-Two of my most boring country visits may include **Iceland** and **Paris** where I stopped for 1 hour layovers... 
+Two of my most boring visits may include **Keflavik** and **Paris** where I stopped for 1 hour layovers... 
 
 <p align="center">
     <a href="https://rawgit.com/jackmorrison/Google-Location-History/master/Leaflet/Map-Iceland.html">
