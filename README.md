@@ -1,4 +1,4 @@
-# Places I've Visited Interactive World Map
+# Interactive World Map of Places I've Visited
 
 This project involves creating a world map to display everywhere that I have visited in a more interactive and digital way than sticking pins onto a wall.
 
@@ -35,11 +35,11 @@ Two of my most boring country visits may include **Iceland** and **Paris** where
 
 <p align="center">
     <a href="https://rawgit.com/jackmorrison/Google-Location-History/master/Leaflet/Map-Iceland.html">
-    <img src="https://raw.githubusercontent.com/jackmorrison/Location-History/master/Images/Iceland-2016.jpg" alt="Iceland" width="400" height="480">
+    <img src="https://raw.githubusercontent.com/jackmorrison/Location-History/master/Images/Iceland-2016.png" alt="Iceland" width="400" height="480">
   
   </a>
   <a href="https://rawgit.com/jackmorrison/Google-Location-History/master/Leaflet/Map-Paris.html">
-    <img src="https://raw.githubusercontent.com/jackmorrison/Location-History/master/Images/Paris-2017.jpg" alt="Paris" width="400" height="480">
+    <img src="https://raw.githubusercontent.com/jackmorrison/Location-History/master/Images/Paris-2017.png" alt="Paris" width="400" height="480">
 
   </a>
 </p>
