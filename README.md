@@ -23,12 +23,25 @@ The data was clustered using the DBSCAN algorithm, which groups data points (lat
   </a>
 </p>
 
-I then broke down the data by year to highlight when I visted new places.
+I then broke down the data by year to highlight my travels across Ireland.
 
 <p align="center">
   
   <img src="https://raw.githubusercontent.com/jackmorrison/Location-History/master/Images/Ireland-by-Year.gif" alt="Ireland by Year" height="846" width="650">
   
+</p>
+
+Two of my most boring country visits may include **Iceland** and **Paris** where I stopped for 1 hour layovers... 
+
+<p align="center">
+    <a href="https://rawgit.com/jackmorrison/Google-Location-History/master/Leaflet/Map-Iceland.html">
+    <img src="https://raw.githubusercontent.com/jackmorrison/Location-History/master/Images/Iceland-2016.jpg" alt="Iceland" width="400" height="480">
+  
+  </a>
+  <a href="https://rawgit.com/jackmorrison/Google-Location-History/master/Leaflet/Map-Paris.html">
+    <img src="https://raw.githubusercontent.com/jackmorrison/Location-History/master/Images/Paris-2017.jpg" alt="Paris" width="400" height="480">
+
+  </a>
 </p>
 
 All countries visited are highlighted on the map below which can be clicked for more detail.
